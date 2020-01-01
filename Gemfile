@@ -9,6 +9,7 @@ gem 'rails', '~> 5.2.3'
 group :development, :test do
   gem 'splite3'
 end
+
 group :proudction do
   gem 'pg'
 end
